@@ -44,7 +44,7 @@ Adatbázis
 Technológiák
 •	Frontend: React + TypeScript 
 •	Backend: Node.js + Express 
-•	Adatbázis: PostgreSQL 
+•	Adatbázis: MySQL 
 •	Tárolás: MinIO (S3-kompatibilis) vagy AWS S3 
 •	Videófeldolgozás: FFmpeg 
 •	Hitelesítés: JWT + refresh token 
