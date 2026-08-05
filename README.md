@@ -1,6 +1,7 @@
 Csapattagok: Kiss Csanád, Suvák Milán, Tóth Tamás
 KKK:
 •	a szoftver átfogó értékelése (a választott téma életszerűsége, az elkészült szoftver hasznossága, a komplexitás és kidolgozottság mértéke, milyen mértékben és minőségben va lósította meg a szoftver a kitűzött célt, felhasználói élmény minősége): 5 pont 
+
 •	adatbázis-tervezés és megvalósítás: 5 pont 
 •	szerver oldali komponens (backend): 10 pont 
 •	asztali használatra készült kliens oldali komponens (frontend): 10 pont • mobil használatra készült kliens oldali komponens: 10 pont 
