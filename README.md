@@ -94,6 +94,7 @@ Adatbázis
 
 
 Technológiák
+(Technológiák tekintetében, nem igazán tanultuk egyiket se, amivel megvalósítható lenne a projekt, én (Suvák Milán), a Reactot így ismerem hallásból, mármint van barátom, aki ezzel készítette el a szakmaivizsgáját, de a többi terén az AI ajánlása van benne, de ettől függetlenül nyiltak vagyunk, másikat használni, ami valójában célszerűbb.)
 
 •	Frontend: React + TypeScript 
 
